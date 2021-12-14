@@ -1,2 +1,2 @@
-# IBM-Capstone
-All data and code for the capstone project of my IBM Data Science Cert.
+# Data Visualization of Missouri Schools
+This project was inspired by a recent course I taken in Community Studies. In this course, we discussed how communities are shaped by an allocation of resources that have a significant impact on racial groups. To demonstrate this impact, I compiled and visualized data from Missouri public schools to show how economic resources and performance disparities have a spatial pattern throughout the state. I hope you find the code and final project intriguing.
